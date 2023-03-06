@@ -1,2 +1,2 @@
-# Livraria com React #
+# Livraria #
 Repositorio destinado a atividade de WebII
