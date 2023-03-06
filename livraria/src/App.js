@@ -1,6 +1,7 @@
 import { useState } from "react";
 import Banner from "./componentes/Banner";
 import Category from "./componentes/Category";
+import Rodape from "./componentes/Footer";
 import Form from "./componentes/Form";
 
 function App() {
@@ -56,6 +57,7 @@ function App() {
         categorias={categorias.map((categoria) => categoria.nome)}
         LivroCadastrado={(livro) => NovoLivroAdicionado(livro)}
       />
+     
       {categorias.map((categoria) => (
         <Category
           key={categoria.nome}
@@ -65,6 +67,7 @@ function App() {
           livros={livros.filter((livro) => livro.categoria === categoria.nome)}
         />
       ))}
+      <Rodape/>
     </div>
   );
 }

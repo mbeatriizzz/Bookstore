@@ -1,0 +1,17 @@
+.rodape{
+    background-color: #456ab6;
+    font-size: 20px;
+    width: 100%;
+    height: 200px;
+    display: inline-block;
+    text-align: right;
+    color: white;
+}
+
+.redes-sociais{
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    height: fit-content;
+    gap: 50px; 
+}
