@@ -1,5 +1,7 @@
 .rodape{
     background-color: #456ab6;
+    background-image: url("../../../public/imagens/fundo.png");
+    background-size: cover;
     width: 92.4%;
     height: 100px;
     display: flex;
@@ -16,6 +18,5 @@
     flex-direction: row;
     width: fit-content;
     height: fit-content;
-    gap: 50px; 
-    
+    gap: 50px;     
 }
