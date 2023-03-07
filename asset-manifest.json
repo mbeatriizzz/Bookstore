@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Livraria/static/css/main.20ec48e8.css",
-    "main.js": "/Livraria/static/js/main.2a22f061.js",
+    "main.js": "/Livraria/static/js/main.658ef43f.js",
     "static/media/fundo.png": "/Livraria/static/media/fundo.634e6bd472eff6edd80e.png",
     "index.html": "/Livraria/index.html",
     "main.20ec48e8.css.map": "/Livraria/static/css/main.20ec48e8.css.map",
-    "main.2a22f061.js.map": "/Livraria/static/js/main.2a22f061.js.map"
+    "main.658ef43f.js.map": "/Livraria/static/js/main.658ef43f.js.map"
   },
   "entrypoints": [
     "static/css/main.20ec48e8.css",
-    "static/js/main.2a22f061.js"
+    "static/js/main.658ef43f.js"
   ]
 }
